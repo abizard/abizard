@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NLP, Computer Vision, etc.**
 
-- 💬 Ask me about **DataViz and Machine Learning Algorithm**
+- 💬 Ask me about **Data Analytics and Machine Learning Algorithm**
 
 - 📫 How to reach me **abizard.03@gmail.com**
 
