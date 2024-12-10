@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **Informatics Engineering Major, Brawijaya University**
 
-- 🌱 I’m currently learning **NLP, Computer Vision, etc.**
+- 🌱 I’m currently learning **Time Series Forecasting, NLP, Computer Vision, etc.**
 
 - 💬 Ask me about **Data Analytics and Machine Learning Algorithm**
 
